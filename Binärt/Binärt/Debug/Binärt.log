@@ -1,0 +1,27 @@
+﻿  GetByte.cpp
+  mängder.cpp
+c:\users\sebak\source\repos\binärt\binärt\mängder.cpp(11): warning C4552: '&': result of expression not used
+c:\users\sebak\source\repos\binärt\binärt\mängder.cpp(19): warning C4552: '&': result of expression not used
+  Pixel.cpp
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(3): error C2144: syntax error: 'int' should be preceded by ';'
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(4): error C2144: syntax error: 'char' should be preceded by ';'
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(4): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(7): error C2371: 'Byte': redefinition; different basic types
+  c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(4): note: see declaration of 'Byte'
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(7): error C2146: syntax error: missing ';' before identifier 'getColorComponent'
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(7): error C2143: syntax error: missing ';' before '{'
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(7): error C2447: '{': missing function header (old-style formal list?)
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(11): error C2065: 'pixel': undeclared identifier
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(11): error C2146: syntax error: missing ')' before identifier 'value'
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(11): error C2143: syntax error: missing ';' before '{'
+c:\users\sebak\source\repos\binärt\binärt\pixel.cpp(11): error C2447: '{': missing function header (old-style formal list?)
+  Uppgift3-160319.cpp
+c:\users\sebak\source\repos\binärt\binärt\uppgift3-160319.cpp(3): error C2144: syntax error: 'long' should be preceded by ';'
+c:\users\sebak\source\repos\binärt\binärt\uppgift3-160319.cpp(3): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+c:\users\sebak\source\repos\binärt\binärt\uppgift3-160319.cpp(5): error C2146: syntax error: missing ')' before identifier 'source'
+c:\users\sebak\source\repos\binärt\binärt\uppgift3-160319.cpp(5): error C2143: syntax error: missing ';' before '{'
+c:\users\sebak\source\repos\binärt\binärt\uppgift3-160319.cpp(5): error C2447: '{': missing function header (old-style formal list?)
+  Generating Code...
+c:\users\sebak\source\repos\binärt\binärt\mängder.cpp(20): error C4716: 'intersection': must return a value

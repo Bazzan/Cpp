@@ -1,0 +1,7 @@
+﻿  Djur.cpp
+c:\users\sebak\source\repos\djur2\djur2\djur.cpp(69): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+c:\users\sebak\source\repos\djur2\djur2\djur.cpp(101): warning C4101: 'snabelmedel': unreferenced local variable
+c:\users\sebak\source\repos\djur2\djur2\djur.cpp(100): warning C4101: 'snablar': unreferenced local variable
+c:\users\sebak\source\repos\djur2\djur2\djur.cpp(99): warning C4101: 'summa': unreferenced local variable
+c:\users\sebak\source\repos\djur2\djur2\djur.cpp(97): warning C4101: 'd': unreferenced local variable
+  Djur2.vcxproj -> C:\Users\sebak\source\repos\Djur2\Debug\Djur2.exe
